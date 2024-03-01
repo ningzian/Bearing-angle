@@ -1,7 +1,7 @@
 # A bearing-angle approach for unknown target motion analysis based on visual measurements
 
-- arxiv 链接: https://arxiv.org/abs/2401.17117
-- 论文 Sage 出版社链接：https://journals.sagepub.com/doi/10.1177/02783649241229172
+- arxiv: https://arxiv.org/abs/2401.17117
+- Sage：https://journals.sagepub.com/doi/10.1177/02783649241229172
 - DOI：https://doi.org/10.1177/0278364924122917
 
 
