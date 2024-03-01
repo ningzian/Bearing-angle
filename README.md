@@ -3,6 +3,8 @@
 - arxiv: https://arxiv.org/abs/2401.17117
 - Sage：https://journals.sagepub.com/doi/10.1177/02783649241229172
 - DOI：https://doi.org/10.1177/0278364924122917
+- Youtube: https://www.youtube.com/watch?v=EMQXMJ3_M9Y
+- Bilibili: https://www.bilibili.com/video/BV1EC411z7Lz/?spm_id_from=333.999.0.0
 
 
 This is the source code for our **IJRR** paper "A bearing-angle approach for unknown target motion analysis based on visual measurements". This file contains five numerical simulation experiments conresponding to Fig. 4 and Fig. 5 in the paper.
